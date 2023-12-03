@@ -2,6 +2,8 @@
 
 I created this dashboard as a part of the final task during my virtual internship with Codebasics.
 
+Link to [Presentation Video](https://www.novypro.com/project/shield-insurance-analysis-report-1)
+
 Link to [Interactive Dashboard](https://www.novypro.com/project/shield-insurance-analysis-report-1)
 
 ## Problem statement
