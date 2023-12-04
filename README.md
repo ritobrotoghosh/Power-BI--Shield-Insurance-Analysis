@@ -25,7 +25,7 @@ Shield Insurance lacks an efficient system for tracking and analyzing crucial bu
 ## Overview
 
 <p align="center">
-    <img src='https://github.com/ritobrotoghosh/PowerBI-AtliQGrandsHospitalityAnalysis/blob/main/AG%20Overall%20Analysis.png' width="600">
+    <img src='https://github.com/ritobrotoghosh/PowerBI-ShieldInsuranceAnalysis/blob/main/Overview.png' width="600">
 </p>
 
 ## Sales View
