@@ -39,3 +39,10 @@ Shield Insurance lacks an efficient system for tracking and analyzing crucial bu
 <p align="center">
     <img src='https://github.com/ritobrotoghosh/PowerBI-ShieldInsuranceAnalysis/blob/main/Customer%20Segmentation.png' width="600">
 </p>
+
+## Key Insights
+
+## New Learnings
+
+- A button feature to switch between Customer and Revenue
+- TOPN DAX formula to find the most preferred policy in each age group 
