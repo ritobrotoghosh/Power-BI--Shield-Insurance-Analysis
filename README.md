@@ -16,3 +16,8 @@ Shield Insurance lacks an efficient system for tracking and analyzing crucial bu
 - Develop an understanding of customer demographics
 - Focus on KPIs related to customer base, revenue generation and policy trend
 
+## Data Model
+
+<p align="center">
+    <img src='https://github.com/ritobrotoghosh/PowerBI-ShieldInsuranceAnalysis/blob/main/Data%20Model%20.png' height="400">
+</p>
