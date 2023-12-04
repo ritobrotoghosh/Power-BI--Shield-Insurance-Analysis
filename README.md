@@ -14,7 +14,7 @@ Shield Insurance lacks an efficient system for tracking and analyzing crucial bu
 
 - Identify areas for growth and optimization
 - Develop an understanding of customer demographics
-- Focus on KPIs related to customer base, revenue generation and policy trend
+- Focus on KPIs related to customer base, revenue generation, and policy trend
 
 ## Data Model
 
@@ -41,6 +41,22 @@ Shield Insurance lacks an efficient system for tracking and analyzing crucial bu
 </p>
 
 ## Key Insights
+
+- Total Revenue Generated - 989.25 M (INR)
+- Total Customer Base - 26,841
+- In March, revenue increased by 85% and the no. of customers increased by 82%
+- Age Group 31-40, has the majority no. of customers and generates 346. 24 M (INR) in revenue
+- Delhi contributes the most in customers and revenue
+- Offline Agent Mode has performed the best throughout
+- Online App and Online Website Modes have improved significantly
+- Offline Direct Mode started slacking post-January
+- POL1048HEL generates the highest amount of revenue with the leanest customer base
+- POL4321HEL and POL4331HEL earn the lowest revenue per customer despite having two of the strongest customer base
+- The 65+ Age Group has the fewest no. of customers but comes third in top revenue contribution
+- 18-24 and 25-30 Age Groups prefer the same policy POL4321HEL
+- Both of them have the least settlement amount
+- In terms of revenue generation, they haven't picked up significantly
+
 
 ## New Learnings
 
