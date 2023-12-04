@@ -21,3 +21,21 @@ Shield Insurance lacks an efficient system for tracking and analyzing crucial bu
 <p align="center">
     <img src='https://github.com/ritobrotoghosh/PowerBI-ShieldInsuranceAnalysis/blob/main/Data%20Model%20.png' height="400">
 </p>
+
+## Overview
+
+<p align="center">
+    <img src='https://github.com/ritobrotoghosh/PowerBI-AtliQGrandsHospitalityAnalysis/blob/main/AG%20Overall%20Analysis.png' width="600">
+</p>
+
+## Sales View
+
+<p align="center">
+    <img src='https://github.com/ritobrotoghosh/PowerBI-ShieldInsuranceAnalysis/blob/main/Sales.png' width="600">
+</p>
+
+## Customer Segmentation View
+
+<p align="center">
+    <img src='https://github.com/ritobrotoghosh/PowerBI-ShieldInsuranceAnalysis/blob/main/Customer%20Segmentation.png' width="600">
+</p>
