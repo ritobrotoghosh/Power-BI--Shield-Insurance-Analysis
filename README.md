@@ -2,7 +2,7 @@
 
 I created this dashboard as a part of the final task during my virtual internship with Codebasics.
 
-Link to [Presentation Video](https://www.novypro.com/project/shield-insurance-analysis-report-1)
+Link to [Presentation Video](https://www.linkedin.com/posts/ritobrotoghosh_dataanalytics-powerbi-businessintelligence-activity-7137432865511788544-0SHm?utm_source=share&utm_medium=member_desktop)
 
 Link to [Interactive Dashboard](https://www.novypro.com/project/shield-insurance-analysis-report-1)
 
